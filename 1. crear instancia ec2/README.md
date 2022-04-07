@@ -1,4 +1,4 @@
-#Crear instancia EC2 
+# Crear instancia EC2 
 
 Permite crear una instancia EC2 con
 - Puede seleccionar el tipo de instancia
